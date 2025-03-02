@@ -70,6 +70,7 @@ Sonuçlar, Matplotlib kullanılarak aşağıdaki şekilde görselleştirilir:
 - **Nötr** duygu içeren başlıklar ise açık mavi renk ile gösterilir.
 
 Pasta grafiği, her kategorinin yüzdesini görsel olarak sunar.
+
 ![sentiment_analys_gorsel](https://github.com/user-attachments/assets/27ea097d-5bd2-439a-9902-825fd8bab706)
 
 ## Katkıda Bulunma
